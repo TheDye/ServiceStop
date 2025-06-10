@@ -1,0 +1,2 @@
+# ServiceStop
+Stop necessary services
